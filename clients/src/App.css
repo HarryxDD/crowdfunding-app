@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.app__funding-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.app__funding-form label {
+  margin-top: 20px;
+}
+
+.button__submit {
+  display: flex;
+  align-self: center;
+  align-items: center;
+  margin-top: 30px;
+  justify-content: center;
+  width: 10%;
+  padding: 0.3rem 2rem;
+}
